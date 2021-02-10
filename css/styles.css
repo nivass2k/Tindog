@@ -98,16 +98,14 @@ font-weight: 800;
     text-align: center;
     font-family: "Ubuntu";
 }
-.card{
-    display:inline-block;
-    margin: 1rem 2rem;
-}
-.Signupc{
-    margin-left: 3rem;
-}
+
+
 .down{
     background-color: #ff4c68;
     color: white;
     text-align: center;
     padding: 3rem 2rem;
+}
+.row{
+    text-align: center;
 }
